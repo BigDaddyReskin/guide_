@@ -1,0 +1,121 @@
+{
+  "GuideData": {
+
+    "items": [
+      {
+        "title": "The Old Song walkthrough",
+        "image": "list1.jpg"
+      },
+      {
+        "title": "The Old 2",
+        "image": "list2.jpg"
+      },
+      {
+        "title": "The Old 3",
+        "image": "list3.jpg"
+      },
+      {
+        "title": "The Old 4",
+        "image": "list4.jpg"
+      },
+      {
+        "title": "The Old 5",
+        "image": "list4.jpg"
+      },
+      {
+        "title": "The Old 6",
+        "image": "list4.jpg"
+      }
+
+    ],
+
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#f56342",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "true",
+        "link_title": "open Game",
+        "setLink": "",
+        "image_link": "content1/1.jpg",
+        "text": "this is Content 1",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "content1/2.jpg",
+        "text": "1.Find a New Exit : \n \n  Using the axe, break the wood blocking the door on the left side of the room, and walk through it. Then go downstairs until you reach the Utility Shaft 9 entrance. There Henry will see the quote “HE WILL SET US FREE written on the wall (presumably by Sammy Lawrence) next to a Bendy cardboard, cans of Bacon Soup, candles and a banjo.\n Explore the room until Henry finds a tape recorded by Sammy, in which he talks about Bendy as if he was a god, and that he will save him. At the end of the tape, he asks: “Can I get an amen?, and just when the tape ends, Sammy’s voice echoes: “I said, can I get an amen?. Then head to the ink flooded hall, where Henry can hardly walk, and get through it. \n \n There, Henry will see a person passing through carrying a Bendy cardboard cutout, and just when Henry reaches him to ask him for help, he´s gone, leaving the cardboard behind. Move to the right corner of the room to unlock the next objective.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "content1/chapter2.jpg",
+        "text": "2.Redirect Power to the Gate : \n \n There, Henry will find a closed gate, and you will have to find 3 switches around the place. Two of them are randomly placed in the Utility Shaft 9 room, but the last one is always hidden behind several Bacon Soup cans on the shelf. These cans are located in the left corner of the room, at the base of a destroyed shelf next to the Bendy cardboard. Find and press the other 2 switches and return to the gate. This will unlock the next objective. \n Raise the Gate : At the gate, hit the lever next to it to activate it. The gate will open, and a new objective materializes in the corner",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "content1/chapter3.jpg",
+        "text": "3.Drain the Stairwell : \n \n Next to Henry, attached to the wall, there is a “Power\" switch, which Henry has to turn. This will cause the energy to return to the Music Department room, but it will also cause a bunch of Searchers to attack, trying to kill Henry. Hitting them with the axe once will kill them, though. Surviving the attack will activate a gate at the right side of the room, and a “Recording letter will light up. \n  Entering through this gate will lead Henry to Sammy’s Office, which entrance is also flooded by ink, with a locked closet at the right side of the room. There is a tape recorded by Wally Franks in front of the office. Listening to it will lead Henry to the next objective.\n \n Unlock Wally’s Closet :\n \n In the tape, Wally will state that he lost his keys and that they may be at one of the garbage cans located all around the place. Doing so may lead you to the recording studio, which features a bunch of chairs, an ecram, microphones hanging from the roof, a recording booth, a tape recorded by Susie Campbell, a banjo, a drum, a bass, a violin and a piano downstairs, and a projecting booth, a projector, and a tape recorded by Norman Polk upstairs",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "content1/chapter4.jpg",
+        "text": "4.Find Sammy’s Sanctuary : \n \n Inside the closet, there are some cans of Bacon Soup and a tape recorded by Sammy. In it, he reveals that he has a sanctuary, just like Joey does, and to enter Henry needs to learn his “favorite song : The song is always a random combination of the five instruments located in the Recording Studio. \n Then, Henry has to go to the projection booth and turn on the projector, then run downstairs and play the combination before the projector turns off. Successfully doing it will open the gate to Sammy’s sanctuary, leading him to the next objective.\n \n  Enter the sanctuary : \n \n Now Henry will have to enter the sanctuary and activate the valve at the bottom of the hall. This will unlock the next objective",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "content1/4.jpg",
+        "text": "4.Find Sammy’s Sanctuary : \n \n Inside the closet, there are some cans of Bacon Soup and a tape recorded by Sammy. In it, he reveals that he has a sanctuary, just like Joey does, and to enter Henry needs to learn his “favorite song : The song is always a random combination of the five instruments located in the Recording Studio. \n Then, Henry has to go to the projection booth and turn on the projector, then run downstairs and play the combination before the projector turns off. Successfully doing it will open the gate to Sammy’s sanctuary, leading him to the next objective.\n \n  Enter the sanctuary : \n \n Now Henry will have to enter the sanctuary and activate the valve at the bottom of the hall. This will unlock the next objective",
+        "isNative": "false"
+      }
+
+    ]
+
+  }
+}

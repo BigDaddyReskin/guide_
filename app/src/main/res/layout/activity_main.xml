@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This project creat by SAID MOTYA for secret gfx group members-->
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    tools:context=".Activities.MainActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/adView"
+        android:background="@drawable/bg">
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+           <com.zonek.apps.gfxherror.UI.Particles
+               android:id="@+id/particles"
+               android:layout_width="match_parent"
+               android:visibility="gone"
+               android:layout_height="match_parent"/>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/bar1"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_25sdp"
+            android:layout_marginTop="@dimen/_3sdp"
+
+           >
+
+            <com.zonek.apps.gfxherror.UI.ImageViews
+                android:id="@+id/ic_rate"
+                android:layout_width="@dimen/_25sdp"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_rate"
+                android:layout_marginLeft="@dimen/_5sdp"
+                />
+
+            <com.zonek.apps.gfxherror.UI.ImageViews
+                android:id="@+id/ic_share"
+                android:layout_width="@dimen/_25sdp"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_share"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="@dimen/_5sdp"
+                />
+
+
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_below="@+id/bar1">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:gravity="center"
+                android:layout_weight="0.8">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:scaleType="fitCenter"
+                    android:src="@drawable/ic_home"/>
+
+
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:gravity="center"
+                android:layout_weight="1">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:orientation="vertical">
+
+                    <com.zonek.apps.gfxherror.UI.ImageViews
+                        android:id="@+id/btn_start"
+                        android:layout_width="wrap_content"
+                        android:layout_height="@dimen/_55sdp"
+                        android:adjustViewBounds="true"
+                        android:layout_marginTop="@dimen/_5sdp"
+                        android:layout_marginBottom="@dimen/_5sdp"
+                        android:src="@drawable/btn_start"
+                        />
+
+                    <com.zonek.apps.gfxherror.UI.ImageViews
+                        android:id="@+id/btn_setting"
+                        android:layout_width="wrap_content"
+                        android:layout_height="@dimen/_55sdp"
+                        android:adjustViewBounds="true"
+                        android:layout_marginTop="@dimen/_5sdp"
+                        android:layout_marginBottom="@dimen/_5sdp"
+                        android:src="@drawable/btn_setting"/>
+
+                    <com.zonek.apps.gfxherror.UI.ImageViews
+                        android:id="@+id/btn_exit"
+                        android:layout_width="wrap_content"
+                        android:layout_height="@dimen/_55sdp"
+                        android:adjustViewBounds="true"
+                        android:layout_marginTop="@dimen/_5sdp"
+                        android:layout_marginBottom="@dimen/_5sdp"
+                        android:src="@drawable/btn_exit"/>
+
+
+
+                </LinearLayout>
+
+            </RelativeLayout>
+
+        </LinearLayout>
+
+
+    </RelativeLayout>
+
+
+
+    <RelativeLayout
+        android:id="@+id/adView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:gravity="center_horizontal"
+        tools:ignore="RtlHardcoded">
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

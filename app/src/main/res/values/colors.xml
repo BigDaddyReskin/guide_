@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="white">@android:color/white</color>
+    <color name="black">@android:color/black</color>
+
+    <color name="color_progressBackground">#4E4441</color>
+    <color name="color_progressTint">#7A1414</color>
+    <color name="color_text_list">#EC0000</color>
+    <color name="color_searching_list">#AF0808</color>
+
+    <color name="color_info">#717171</color>
+    <color name="color_pop">#151312</color>
+    <color name="color_pop_rate">#170800</color>
+
+    <color name="color_ad">#AF0808</color>
+
+</resources>

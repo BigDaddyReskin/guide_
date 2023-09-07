@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">GFX HERROR</string>
+
+    <string name="splash_title">HERRO GUIDE</string>
+    <string name="splash_loading">Loading</string>
+
+    <string name="list_title">LIST TIPS</string>
+    <string name="searching_list">SEARCHING...</string>
+    <string name="searching_list_failed">SERACHING FAILED</string>
+    <string name="searching_list_try">TRY AGAIN</string>
+
+    <string name="searching_content">Loading UI</string>
+    <string name="searching_content_failed">LOADINF FAILED</string>
+    <string name="searching_content_try">TRY AGAIN</string>
+
+    <string name="setting">Settings</string>
+
+    <string name="rate_title">Rate US</string>
+    <string name="rate_desc">Please give us our experience in this application guid and help us to develop more ideas !</string>
+    <string name="rate_ok">Rate it</string>
+    <string name="rate_on">No Thanks</string>
+
+
+    <string name="devlepedby">SAID MOTYA</string>
+    <string name="splash_info">This projcet create for Secret GFX</string>
+    <string name="warning_text">This app directed by "Fans" And its not Official If we infringe copyright let us know and will be removed as soon as possible Thank You !</string>
+
+
+    <!--CONSENT GDPR FOR EU USERS-->
+    <string name="consent_title">Personalize Your Ad Experience</string>
+    <string name="consent">I consent to disclosure of the advertising ID of my device to advertising companies to serve personalized ads.<font fgcolor ="#4097ff"><u>Learn more</u></font></string>
+    <string name="consent_byargeeing">By agreeing, you confirm that you are over the age of 16.</string>
+    <string name="consent_no"><u>NO, THANK YOU</u></string>
+    <string name="consent_yes">YES, I AGREE</string>
+    <string name="consent_seeads">I understand that I will still see ads, relevant to my interests.</string>
+
+
+</resources>
